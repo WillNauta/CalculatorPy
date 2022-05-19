@@ -1,6 +1,7 @@
 # CalculatorPy
 
-![by @Willia](https://raw.githubusercontent.com/wil7y/CalculatorPy/Pictures/py1.PNG "Calculadora PY---Api")
+![by @Willia](https://github.com/WilliamQuinteroT/CalculatorPy/blob/Master/Pictures/py1.PNG?raw=true "Calculadora PY---Api")
+
 
 # Información
 Esta es la creacion de una api donde se hace el get y post de una calculadora
@@ -24,7 +25,7 @@ pip install uvicorn
 Para hacer una divisison, lo que hacemos es pasar dos parametros
 http://127.0.0.1:5000//calcula-sisdis?tipo=division&valor1=2&valor2=3
 ```
- ![by @SantiagoRocha](https://raw.githubusercontent.com/wil7y/MalwareSanti/master/Pictures/Malware1.PNG "Abrir firefox")
+ ![by @SantiagoRocha](https://github.com/WilliamQuinteroT/CalculatorPy/blob/Master/Pictures/py2.PNG?raw=true "Abrir en el browser")
 
 - Firefox permite cargar complementos (extensiones) de forma temporal accediendo a la siguiente dirección desde la barra de navegación:
 
