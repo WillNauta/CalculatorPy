@@ -1,0 +1,15 @@
+---
+Sistemas distribuidos
+William Quintero
+2022
+
+
+#### Este es el repositorio para la caluladora 
+https://github.com/WilliamQuinteroT/CalculatorPy
+
+
+
+##### Este es el repositorio para el uso de una API REST
+https://github.com/WilliamQuinteroT/ApiRest
+
+
