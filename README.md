@@ -1,6 +1,6 @@
 # CalculatorPy
 
-![by @Willia](https://github.com/WilliamQuinteroT/CalculatorPy/blob/Master/Pictures/py1.PNG?raw=true "Calculadora PY---Api")
+![by @Willia](https://github.com/WilliamQuinteroT/CalculatorPy/blob/Master/Pictures/py3.PNG?raw=true "Calculadora PY---Api")
 
 
 # Información
@@ -31,7 +31,7 @@ http://127.0.0.1:5000//calcula-sisdis?tipo=division&valor1=2&valor2=3
 
 ##### about:debugging
 
-![by @SantiagoRocha](https://raw.githubusercontent.com/wil7y/MalwareSanti/master/Pictures/Malware2.PNG "about debugging")
+![by @SantiagoRocha](https://github.com/WilliamQuinteroT/CalculatorPy/blob/Master/Pictures/py1.PNG?raw=true "about debugging")
 
 - Para cargar **Malware Santi** debes presionar en el botón "Load Temporary Add-on" ubicado en la esquina superior derecha, lo cual desplegara una nueva ventana para buscar la carpeta donde has descargardo **Malware Santi**.
 	
